@@ -11,3 +11,6 @@ Milkshake -- Photo by Pranav Kumar Jain on Unsplash - https://unsplash.com/photo
 # Additional details
 This version includes more timeouts to make the game "real" (the original video was too quick in terms of flipping cards).
 It also allows any image to be included since that manual image setting step is included (this wasn't covered in the video), and that is why I was able to utilize separate images than the tutorial images on FCC.
+
+# Try it out!
+https://htmlpreview.github.io/?https://github.com/jiwpark00/javascript_games/blob/main/memory_game/index.html
